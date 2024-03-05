@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "2024-p1-vukhanhvyho"
+version = "0.1.0"
+description = ""
+authors = ["Vu Khanh Vy Ho <116183364+VuKhanhVyHo@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+flask = "^3.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
